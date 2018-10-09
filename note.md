@@ -1,0 +1,1 @@
+The server.js and client.js code in this project was adapted from https://glitch.com/~airtable-example.
